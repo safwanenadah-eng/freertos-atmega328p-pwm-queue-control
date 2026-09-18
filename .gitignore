@@ -1,0 +1,12 @@
+# Fichiers d'objets et d'exécutables générés
+*.o
+*.elf
+*.hex
+
+# Fichiers temporaires Proteus et sauvegardes
+*.pdsbak
+*.workspace
+*.DESKTOP-*
+
+# Fichiers médias lourds
+*.mp4
